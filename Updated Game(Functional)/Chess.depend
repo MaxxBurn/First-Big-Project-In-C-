@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1564069493 source:c:\users\user\desktop\c++ projects\chess\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
