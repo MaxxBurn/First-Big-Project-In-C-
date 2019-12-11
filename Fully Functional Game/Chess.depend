@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1564069493 source:c:\users\user\desktop\c++ projects\chess\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1564069730 source:c:\users\user\desktop\c++ projects\updated game(functional)\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1576075538 source:c:\users\user\desktop\c++ projects\updated game v2 (tomb works,desert ongoing)\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
