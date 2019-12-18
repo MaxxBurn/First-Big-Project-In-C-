@@ -8,3 +8,15 @@ There are 2 dungeons :
 2.Black Desert(yes the idea of the name came from the MMORPG Black Desert Online)
 
 The user gets to decide which area he wants to clear first then after killing the boss (if he manages to) the game ends.
+
+(UPDATE IN PROGRESS) 
+
+After being inspired by my professor , i decided to continue the project. Things that will be added in the next game patch :
+1. Item drops
+2. Potion usage in dungeons
+3. Leveling up
+4. Acquiring new skills while leveling up
+5. Mob Surprise attacks 
+6. Equipment bar which will consist of a sword and helmet as of currently
+7. Story will be added to the game eventually
+8. NPC's you can talk to 
